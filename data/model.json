@@ -1,0 +1,10 @@
+{
+  "id": "sora-2-pro",
+  "source": "https://apimart.ai/en/pricing",
+  "extracted_at": "2026-10-13T06:43:04Z",
+  "prices": {},
+  "rates": {},
+  "unit": null,
+  "hook": "from $0.24 per second at 720P (1024P $0.4 · 1080P $0.56)",
+  "model_page": "https://apimart.ai/model/sora-2-pro"
+}
